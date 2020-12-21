@@ -1,0 +1,551 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://bradleyseymour.com" resolutions="1x" timestamp="1608557487322">
+  <folder name="css">
+    <file name="site_global.css" crc="4001802020"/>
+    <file name="master_a-master.css" crc="3936629798" ref="bradleyseymour:index:editorial:diary"/>
+    <file name="nomq_preview_master_a-master.css" crc="118097117" ref="bradleyseymour:index:editorial:diary"/>
+    <file name="master_b-master.css" crc="3775846081" ref="about"/>
+    <file name="nomq_preview_master_b-master.css" crc="3923049875" ref="about"/>
+    <file name="bradleyseymour.css" crc="3811980226" ref="bradleyseymour"/>
+    <file name="nomq_bradleyseymour.css" crc="3818013428" ref="bradleyseymour"/>
+    <file name="index.css" crc="152713984" ref="index"/>
+    <file name="nomq_index.css" crc="231237417" ref="index"/>
+    <file name="about.css" crc="4208984622" ref="about"/>
+    <file name="nomq_about.css" crc="3978898919" ref="about"/>
+    <file name="editorial.css" crc="3962150886" ref="editorial"/>
+    <file name="nomq_editorial.css" crc="3908819520" ref="editorial"/>
+    <file name="diary.css" crc="144304343" ref="diary"/>
+    <file name="nomq_diary.css" crc="3832740684" ref="diary"/>
+  </folder>
+  <folder name="fonts">
+    <file name="gotham-bold.woff" crc="57696846"/>
+    <file name="gotham-bold.eot" crc="3876762958"/>
+    <file name="gotham-bold.svg" crc="369194683"/>
+  </folder>
+  <folder name="assets">
+    <file name="likes_02_2017-1.jpg" crc="4150137687" seo="true" mt="1518128170000"/>
+    <file name="mclikes_anthonyvaccarello2.jpg" crc="4179641556" seo="true" mt="1520592493000"/>
+    <file name="japan0.jpg" crc="360696263" seo="true" mt="1519636150000"/>
+    <file name="japan1.jpg" crc="103189286" seo="true" mt="1519636181000"/>
+    <file name="japan2.jpg" crc="3877281835" seo="true" mt="1519636182000"/>
+    <file name="japan3.jpg" crc="1110139" seo="true" mt="1519636183000"/>
+    <file name="marieclaire-novembre-2017.jpg" crc="104955498" seo="true" mt="1520614761000"/>
+    <file name="marieclaire-ottobre-2017.jpg" crc="400089458" seo="true" mt="1520592831000"/>
+    <file name="marieclaire-aprile-2017.jpg" crc="3964924025" seo="true" mt="1518432045000"/>
+    <file name="marieclaire-gennaio-2017.jpg" crc="3860100123" seo="true" mt="1518440473000"/>
+    <file name="marieclaire-dicembre-2016.jpg" crc="388440312" seo="true" mt="1520614973000"/>
+    <file name="marieclaire-ottobre-2016.jpg" crc="502845788" seo="true" mt="1518439421000"/>
+    <file name="marieclaire-maggio-2016.jpg" crc="4057462971" seo="true" mt="1518438987000"/>
+    <file name="marieclaire-ottobre-2015.jpg" crc="3906113238" seo="true" mt="1520615029000"/>
+    <file name="marieclaire-marzo-2015.jpg" crc="4289176088" seo="true" mt="1520614922000"/>
+    <file name="marieclaire-marzo-2014.jpg" crc="3968154014" seo="true" mt="1518438489000"/>
+    <file name="marieclaire-ottobre-2014.jpg" crc="4060168931" seo="true" mt="1518438570000"/>
+    <file name="marieclaire-ottobre-2013.jpg" crc="211393876" seo="true" mt="1518438110000"/>
+    <file name="marieclaire-marzo-2017.jpg" crc="4234173211" seo="true" mt="1520615083000"/>
+    <file name="enfants-settembre-2017_page_001.jpg" crc="192376180" seo="true" mt="1520169715000"/>
+    <file name="one_black_pixel.png" crc="3897704651" seo="true" mt="1520178176000"/>
+    <file name="share-symbol.svg" crc="3811970555" seo="true" mt="1520178821000"/>
+    <file name="loupe.svg" crc="4195430286" seo="true" mt="1520179016000"/>
+    <file name="zoom-out.svg" crc="175969598" seo="true" mt="1520179093000"/>
+    <file name="marieclaire-giugno-2017.jpg" crc="3859861588" seo="true" mt="1520592719000"/>
+    <file name="marieclaire-novembre-2013.jpg" crc="32331092" seo="true" mt="1518438316000"/>
+    <file name="mclikes_anthonyvaccarello1.jpg" crc="3883901802" seo="true" mt="1520613672000"/>
+    <file name="tuttelecopertinehome.gif" crc="331880145" seo="true" mt="1520592998000"/>
+    <file name="copertina-mc-dic-2017.jpg" crc="278057210" seo="true" mt="1520610809000"/>
+    <file name="dream-team_0.png" crc="461736404" seo="true" mt="1517665704000"/>
+    <file name="dream-team_1.png" crc="171202629" seo="true" mt="1519311101000"/>
+    <file name="dream-team_3.png" crc="443334880" seo="true" mt="1519314875000"/>
+    <file name="whitepixel.jpg" crc="4275167957" seo="true" mt="1518159692000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:diary:index:editorial:bradleyseymour"/>
+    <file name="museutils.js" crc="3939489907" ref="about:diary:index:editorial:bradleyseymour"/>
+    <file name="whatinput.js" crc="86476730" ref="about:diary:index:editorial:bradleyseymour"/>
+    <file name="museconfig.js" crc="3936894949" ref="about:diary:index:editorial:bradleyseymour"/>
+    <file name="webpro.js" crc="3856315280" ref="about:diary:index:editorial:bradleyseymour"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="about:diary:index:editorial:bradleyseymour"/>
+    <file name="jquery.watch.js" crc="522499760" ref="about:diary:index:editorial:bradleyseymour"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="about:diary:index:editorial:bradleyseymour"/>
+    <file name="require.js" crc="4177726516" ref="about:diary:index:editorial:bradleyseymour"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:bradleyseymour"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:bradleyseymour"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:bradleyseymour"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="editorial"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="about:diary:index:editorial:bradleyseymour"/>
+    <file name="diary-favicon.ico" crc="3844955355" ref="diary"/>
+    <file name="bradley-seymour-favicon.ico" crc="3844955355" ref="index"/>
+    <file name="loading first enter.gif" crc="4260450377" seo="true" ref="index:bradleyseymour">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bradleyseymour" alt=""/>
+      <caption webpage="bradleyseymour" alt=""/>
+      <caption webpage="bradleyseymour" alt=""/>
+      <caption webpage="bradleyseymour" alt=""/>
+      <caption webpage="bradleyseymour" alt=""/>
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u170533.jpg" crc="3969863185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u170529.jpg" crc="3969863185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_087-min-crop-u170535.jpg" crc="249162234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_085-crop-u170531.jpg" crc="405163752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:bradleyseymour"/>
+    <file name="gif_mc2croped.gif" crc="533497475" seo="true" ref="index:bradleyseymour">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bradleyseymour" alt=""/>
+      <caption webpage="bradleyseymour" alt=""/>
+      <caption webpage="bradleyseymour" alt=""/>
+      <caption webpage="bradleyseymour" alt=""/>
+      <caption webpage="bradleyseymour" alt=""/>
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_001.jpg" crc="4218798957" seo="true" ref="index:bradleyseymour">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_002.jpg" crc="3860323294" seo="true" ref="index:bradleyseymour">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_003.jpg" crc="4058335909" seo="true" ref="index:bradleyseymour">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="go_up.svg" crc="4138458472" seo="true" ref="index:editorial:bradleyseymour">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bradleyseymour" alt=""/>
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="go_up_poster_.png" crc="3998602685" ref="index"/>
+    <file name="likes_02_2017_page_084-crop-u1705332.jpg" crc="3979060600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u1705292.jpg" crc="3979060600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_087-min-crop-u1705352.jpg" crc="4085492808" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_085-crop-u1705312.jpg" crc="4071518057" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_001-crop-u169270.jpg" crc="471772949" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_002-crop-u193429.jpg" crc="535846232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_003-crop-u193493.jpg" crc="4251454485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u1705333.jpg" crc="509769773" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u1705293.jpg" crc="509769773" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_087-min-crop-u1705353.jpg" crc="484199032" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_085-crop-u1705313.jpg" crc="66989591" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_001-crop-u1692702.jpg" crc="3902543775" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_002-crop-u1934292.jpg" crc="360106999" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_003-crop-u1934932.jpg" crc="222039642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u1705334.jpg" crc="42055662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u1705294.jpg" crc="42055662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_087-min-crop-u1705354.jpg" crc="3877028555" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_085-crop-u1705314.jpg" crc="361824530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_001-crop-u1692703.jpg" crc="4199936061" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_002-crop-u1934293.jpg" crc="392814925" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_003-crop-u1934933.jpg" crc="461370877" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u1705335.jpg" crc="4029708575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u1705295.jpg" crc="4029708575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_087-min-crop-u1705355.jpg" crc="420941745" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_085-crop-u1705315.jpg" crc="208774534" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_00189x118.jpg" crc="164133383" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_00289x118.jpg" crc="216102222" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_00389x118.jpg" crc="358301234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u1705336.jpg" crc="412899819" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u1705296.jpg" crc="412899819" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_087-min-crop-u1705356.jpg" crc="514335344" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_085-crop-u1705316.jpg" crc="215995969" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_001-crop-u1692704.jpg" crc="4035679870" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_002-crop-u1934294.jpg" crc="136398179" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_003-crop-u1934934.jpg" crc="4165614772" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="editorial-favicon.ico" crc="3844955355" ref="editorial"/>
+    <file name="likes_02_2017_page_001_00.jpg" crc="3773345849" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire 12_2017_page_001340x451.jpg" crc="534922038" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_001347x451.jpg" crc="3822216628" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="mc-nov_2017_page_001336x456.jpg" crc="104826598" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-marzo-2017338x452.jpg" crc="4273869002" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="aprile 2017_page_001.jpg" crc="3869972291" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+      <caption webpage="editorial" alt=""/>
+      <caption webpage="editorial" alt=""/>
+      <caption webpage="editorial" alt=""/>
+      <caption webpage="editorial" alt=""/>
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="aprile 2017_page_001349x452.jpg" crc="180368965" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-dicembre-2016340x452.jpg" crc="61422750" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-ottobre-2015340x452.jpg" crc="460052695" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="ottobre 2014_page_001348x451.jpg" crc="61236464" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-marzo-2015340x452.jpg" crc="4284775396" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="ottobre 2013_page_001348x451.jpg" crc="124000705" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_001_00-u181885-fr.jpg" crc="4033287383" ref="editorial"/>
+    <file name="marieclaire 12_2017_page_001194x257.jpg" crc="195050119" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_001198x257.jpg" crc="4128489370" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="mc-nov_2017_page_001-crop-u182123.jpg" crc="373627058" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-marzo-2017193x257.jpg" crc="491677840" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="aprile 2017_page_001199x257.jpg" crc="340509694" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-dicembre-2016194x257.jpg" crc="3897311518" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-ottobre-2015194x257.jpg" crc="42781906" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="ottobre 2014_page_001198x257.jpg" crc="339417551" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="ottobre 2013_page_001198x257.jpg" crc="3929865305" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-marzo-2015194x257.jpg" crc="3874181272" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire 12_2017_page_001154x204.jpg" crc="4207755417" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_001157x204.jpg" crc="3816000097" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="mc-nov_2017_page_001-crop-u1821232.jpg" crc="4203675230" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-marzo-2017153x204.jpg" crc="488846473" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="aprile 2017_page_001158x204.jpg" crc="4054574845" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-dicembre-2016154x204.jpg" crc="292585332" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-ottobre-2015154x204.jpg" crc="4038087045" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="ottobre 2014_page_001157x204.jpg" crc="202129860" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-marzo-2015154x204.jpg" crc="227038427" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="ottobre 2013_page_001157x204.jpg" crc="104839298" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire 12_2017_page_001210x278.jpg" crc="324336578" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_001212x276.jpg" crc="373595706" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="mc-nov_2017_page_001-crop-u1821233.jpg" crc="475303163" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="aprile 2017_page_001208x281.jpg" crc="4065007893" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-marzo-2017208x278.jpg" crc="3974783311" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-dicembre-2016211x281.jpg" crc="33385952" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-ottobre-2015211x281.jpg" crc="220580599" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="ottobre 2014_page_001213x275.jpg" crc="31613585" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-marzo-2015211x281.jpg" crc="3806609371" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="ottobre 2013_page_001213x275.jpg" crc="3999029164" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire 12_2017_page_001132x175.jpg" crc="4176328009" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_001134x174.jpg" crc="3966647394" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="mc-nov_2017_page_001-crop-u1821234.jpg" crc="4231428039" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="aprile 2017_page_001131x177.jpg" crc="366634990" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-marzo-2017131x175.jpg" crc="4250415323" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-dicembre-2016133x177.jpg" crc="319667905" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-ottobre-2015133x177.jpg" crc="522108219" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="ottobre 2014_page_001134x173.jpg" crc="4235714287" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-marzo-2015133x177.jpg" crc="3821463654" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="ottobre 2013_page_001134x173.jpg" crc="224287082" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_001_00-u181885-fr2.jpg" crc="123838532" ref="editorial"/>
+    <file name="marieclaire 12_2017_page_001246x327.jpg" crc="191348260" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_001249x324.jpg" crc="4030434616" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="mc-nov_2017_page_001-crop-u1821235.jpg" crc="4153891294" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-marzo-2017244x327.jpg" crc="213040074" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="aprile 2017_page_001244x323.jpg" crc="222160133" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-dicembre-2016243x323.jpg" crc="4220000430" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-marzo-2015245x326.jpg" crc="506106681" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="marieclaire-ottobre-2015244x324.jpg" crc="359948371" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="ottobre 2014_page_001250x323.jpg" crc="3937406615" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="ottobre 2013_page_001249x322.jpg" crc="318556002" seo="true" ref="editorial">
+      <caption webpage="editorial" alt=""/>
+    </file>
+    <file name="bradleyseymour-favicon.ico" crc="3844955355" ref="bradleyseymour"/>
+    <file name="likes_02_2017_page_084-crop-u211142.jpg" crc="3969863185" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u211146.jpg" crc="3969863185" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_087-min-crop-u211144.jpg" crc="249162234" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_085-crop-u211140.jpg" crc="405163752" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u2111422.jpg" crc="3979060600" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u2111462.jpg" crc="3979060600" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_087-min-crop-u2111442.jpg" crc="4085492808" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_085-crop-u2111402.jpg" crc="4071518057" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_001-crop-u211174.jpg" crc="4011167505" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_002-crop-u211172.jpg" crc="277875398" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_003-crop-u211176.jpg" crc="3845579896" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u2111423.jpg" crc="509769773" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u2111463.jpg" crc="509769773" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_087-min-crop-u2111443.jpg" crc="484199032" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_085-crop-u2111403.jpg" crc="66989591" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_001-crop-u2111742.jpg" crc="3902543775" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_002-crop-u2111722.jpg" crc="360106999" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_003-crop-u2111762.jpg" crc="222039642" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u2111424.jpg" crc="42055662" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u2111464.jpg" crc="42055662" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_087-min-crop-u2111444.jpg" crc="3877028555" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_085-crop-u2111404.jpg" crc="361824530" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_001-crop-u2111743.jpg" crc="4199936061" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_002-crop-u2111723.jpg" crc="392814925" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_003-crop-u2111763.jpg" crc="461370877" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u2111425.jpg" crc="4029708575" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u2111465.jpg" crc="4029708575" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_087-min-crop-u2111445.jpg" crc="420941745" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_085-crop-u2111405.jpg" crc="208774534" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u2111426.jpg" crc="412899819" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_084-crop-u2111466.jpg" crc="412899819" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_087-min-crop-u2111446.jpg" crc="514335344" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="likes_02_2017_page_085-crop-u2111406.jpg" crc="215995969" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_001-crop-u2111744.jpg" crc="4035679870" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_002-crop-u2111724.jpg" crc="136398179" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+    <file name="bellezza 23_2017_page_003-crop-u2111764.jpg" crc="4165614772" seo="true" ref="bradleyseymour">
+      <caption webpage="bradleyseymour" alt=""/>
+    </file>
+  </folder>
+  <file name="about.html" crc="3852790427" seo="true" mt="1608557401199" redirect="true"/>
+  <file name="diary.html" crc="51248629" seo="true" mt="1608557393407" redirect="true"/>
+  <file name="index.html" crc="3768213921" seo="true" mt="1608557393407" redirect="true"/>
+  <file name="editorial.html" crc="4182371861" seo="true" mt="1608557393407" redirect="true"/>
+  <file name="bradleyseymour.html" crc="3766909660" seo="true" mt="1608557393407" redirect="true"/>
+</manifest>
